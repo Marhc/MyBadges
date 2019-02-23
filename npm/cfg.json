@@ -5,5 +5,5 @@
   "labelColor": "lightgrey",
   "color": "orange",
   "style": "popout-square",
-  "logoSvg": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2LjM1IDYuMzUiIGhlaWdodD0iMjQiIHdpZHRoPSIyNCI+PHBhdGggZD0iTTEuNDM3IDIuNTRoMy40NzlMMy4xNzggMHptMy40NzYgMS4yN0gxLjQzNGwxLjczOCAyLjU0eiIvPjwvc3ZnPg=="
+  "logoSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 6.35 6.35' height='24' width='24'><path d='M1.437 2.54h3.479L3.178 0zm3.476 1.27H1.434l1.738 2.54z'/></svg>"
 }
