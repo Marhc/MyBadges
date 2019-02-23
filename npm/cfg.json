@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "label": "hello",
-  "message": "sweet world",
+  "label": "",
+  "message": "NPM",
   "labelColor": "lightgrey",
-  "color": "orange",
-  "style": "popout-square",
-  "logoSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 6.35 6.35' height='24' width='24'><path d='M1.437 2.54h3.479L3.178 0zm3.476 1.27H1.434l1.738 2.54z'/></svg>"
+  "color": "black",
+  "style": "for-the-badge",
+  "logoColor": "white",
+  "namedLogo": "npm"
 }
